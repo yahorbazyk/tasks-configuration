@@ -2,6 +2,9 @@ Here is the implementation of the Apex logic.
 
 If you'd like, I can grant you access to the box for easier handling.
 
+https://login.salesforce.com/ -
+username: test.test@box.com
+pass: testadmin255
 
 The process itself is based on task configuration management via Custom Metadata Types. Where we can customize the data.
 ![CleanShot 2023-08-03 at 20 51 30](https://github.com/yahorbazyk/tasks-configuration/assets/135764285/35739c8a-1620-4b88-a0de-328ad12143af)
