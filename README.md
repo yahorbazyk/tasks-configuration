@@ -2,10 +2,6 @@ Here is the implementation of the Apex logic.
 
 If you'd like, I can grant you access to the box for easier handling.
 
-https://login.salesforce.com/ -
-username: test.test@box.com
-pass: testadmin255
-
 I have implemented the basic functionality based on the requirements, but of course it is possible to further customize everything even more dynamically.
 
 1. Namely, we can add a list of fields to the Field set, which will be used to search for duplicates.
